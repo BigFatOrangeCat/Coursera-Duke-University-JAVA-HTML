@@ -4,5 +4,14 @@ h1 {
 }
 
 .test {
-    color : green;
+    color : #C44AC4;
+}
+
+#doge {
+    float: right;
+}
+
+
+ol {
+    color : red;
 }
